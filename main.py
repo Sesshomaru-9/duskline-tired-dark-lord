@@ -11,13 +11,13 @@ import sys
 import tempfile
 
 ENTRY = (
-    "Right. The hero. I saw the sword. Sit\u2014not the throne, the stool. "
-    "Three hundred years I waited in the dark. I had a speech. I had lightning. "
+    "Ah. The hero. I saw the sword, yes. Sit\u2014not the throne, the stool. "
+    "Three hundred years I waited in the dark, rehearsing. I had a speech. I had lightning. "
     "I had\u2014where did I put the lightning? Never mind. The point is, boy, I won. "
     "Nine kingdoms kneel, the dragons file their taxes on time, the prophecy is... filed. "
     "Under P. Now you want a duel at dawn. Dawn. I have a grain levy at dawn, and the "
     "trolls want the bridge tolls cut. So. Kneel, swear, take the east wing, and we shall "
-    "fight... Tuesday. Bring your own lunch."
+    "fight... Tuesday. Bring your own lunch, hero."
 )
 
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
